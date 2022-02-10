@@ -2,6 +2,9 @@
 <h1 align="center">
 <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" height="100px">
 </h1>
+
+---
+
 ## I'm a BTECH CSE Undergrad
 - 🌱 I’m currently learning everything 🤣
 - 🍔 Foodie by birth
