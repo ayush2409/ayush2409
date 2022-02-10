@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush  👋  <h1 align ="center"><img src="images/hello.gif" height="100px">
+# Hi there, I'm Ayush  👋  <h1 align ="center"><img src="https://tenor.com/view/hello-gif-19947459" height="100px">
 
 ## I'm a BTECH CSE Undergrad
 - 🌱 I’m currently learning everything 🤣
