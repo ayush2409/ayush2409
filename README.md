@@ -4,7 +4,7 @@
 
 
 ## I'm a BTECH CSE Undergrad
-- 🌱 Currently in 3rd year 👨‍🎓
+- 🌱 Currently a 3rd year undergrad 👨‍🎓
 - 🍔 Foodie by birth
 - 🥅 2022 Goal: Learn about Web Development
 - ⚡ Hobbies: I love to draw and play video games , badminton and basketball 🏀🏸
