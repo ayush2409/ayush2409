@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush  👋 
 <h1 align="left">
-<img src="https://c.tenor.com/BiENe_PFkC8AAAAC/nezuko-demon-slayer.gif" height="1000px">
+<img src="https://c.tenor.com/BiENe_PFkC8AAAAC/nezuko-demon-slayer.gif" height="300px">
 
 
 ## I'm a BTECH CSE Undergrad
