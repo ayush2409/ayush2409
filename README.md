@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush  👋 
 <h1 align="center">
-<img src="https://media4.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif?cid=ecf05e47p5ib0n1l3u5o9wt7acf5iwmcsl1mhw1v3fdcbwfm&rid=giphy.gif&ct=g" height="200px">
+<img src="https://media4.giphy.com/media/tEcIyVc6ukQV2eb86t/giphy.gif?cid=ecf05e47p5ib0n1l3u5o9wt7acf5iwmcsl1mhw1v3fdcbwfm&rid=giphy.gif&ct=g" height="200px">
 
 
 ## I'm a BTECH CSE Undergrad
