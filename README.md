@@ -27,6 +27,9 @@
 <br />
 
 ---
+   
+ #### Contact Me:
+                                                                                                                                  
   <br>
 
   <a href="https://www.linkedin.com/in/ayush-chandola-290953193/">
@@ -40,7 +43,7 @@
     <img align="left" alt="Ayush Chandola | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br><br><br><br>
+<br><br>
                                                                                                                                                     
  ---
                                                                                                                                                     
