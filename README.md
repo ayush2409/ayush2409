@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush  👋 
 <h1 align="center">
-<img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" height="100px">
+<img src="https://c.tenor.com/BiENe_PFkC8AAAAC/nezuko-demon-slayer.gif" height="100px">
 
 
 ## I'm a BTECH CSE Undergrad
