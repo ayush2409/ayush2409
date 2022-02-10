@@ -4,10 +4,10 @@
 
 
 ## I'm a BTECH CSE Undergrad
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Currently in 3rd year 👨‍🎓
 - 🍔 Foodie by birth
-- 🥅 2022 Goals: Learn about Web Development
-- ⚡ Fun fact: I love to draw and play video games , badminton and basketball 🏀🏸
+- 🥅 2022 Goal: Learn about Web Development
+- ⚡ Hobbies: I love to draw and play video games , badminton and basketball 🏀🏸
 - 😻 Love to make new friends
 
 <br />
