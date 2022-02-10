@@ -51,7 +51,7 @@
                                                                                                                                                     
  ---
                                                                                                                                                     
-  <img align="center" alt="Ayush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayush2409&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ <p align="center"> <img align="center" alt="Ayush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayush2409&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
     <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2409&theme=radical&layout=compact" /></p>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2409" alt="dubeyji0110" /></p>
   
