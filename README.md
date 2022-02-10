@@ -42,6 +42,10 @@
   <a href="mailto:ayush.aj.789@gmail.com">
     <img align="left" alt="Ayush Chandola | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+                                                                                                                                                     
+  <a href="https://www.instagram.com/_a_yush_/">
+    <img align="left" alt="Ayush Chandola | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>  
 
 <br><br>
                                                                                                                                                     
