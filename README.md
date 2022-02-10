@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I love to draw and play video games , badminton and basketball 🏀🏸
 - 😻 Love to make new friends
 
-
 <br />
 
 ---
