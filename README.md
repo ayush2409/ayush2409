@@ -31,7 +31,7 @@
   
 
   
-  ![](https://komarev.com/ghpvc/?username=your-github-ayush2409)
+  ![](https://komarev.com/ghpvc/?username=your-github-ayush2409&color=blueviolet)
 
 
 
