@@ -34,7 +34,6 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ayush2409&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=FFFF">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2409&layout=compact&hide_border=true&theme=darcula&bg_color=FFFF&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ayush2409&theme=darcula&hide_border=true&background=0000">
   <br>
 </p>
                                                                                                                                 
