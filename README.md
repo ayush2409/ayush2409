@@ -30,19 +30,19 @@
                                                                                                                                   
  ### Github Stats:
  <br />
-                                                                                                                                  
+  <!--                                                                                                                                
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ayush2409&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=FFFF">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2409&layout=compact&hide_border=true&theme=darcula&bg_color=FFFF&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
+  <br> -->
 </p>
                                                                                                                                 
-<!--  <p>
+  <p>
 <a href="https://github.com/ayush2409">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush2409&show_icons=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2409&theme=vue&layout=compact" />
 </a>
-</p> -->
+</p> 
    
  #### Contact Me:
                                                                                                                                   
