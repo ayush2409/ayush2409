@@ -68,16 +68,14 @@
  ---
                                                                                                                                                     
 
-  <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2409" alt="ayush2409" />
+  <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2409" alt="ayush2409" /></p>
                                                                                                                               
-  <img align="right" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/ayush2409?theme=unicorn&font=Tauri" unselectable="on" alt="ayush2409"/></p>
+  <img align="right" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/ayush2409?theme=unicorn&font=Tauri" unselectable="on" alt="ayush2409"/>
   
-<!--   <td> 
-<img align="right" style="width: 100%; height: 100%;" src="https://leetcode.card.workers.dev/ayush2409?theme=unicorn&font=&extension=null" unselectable="on" alt="ayush2409"/> </td> -->
 
 <br> <br>
-  <p>
+  
   ![](https://komarev.com/ghpvc/?username=your-github-ayush2409&color=blueviolet)
-</p>
+
 
 
