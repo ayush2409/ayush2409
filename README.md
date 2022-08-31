@@ -68,9 +68,9 @@
  ---
                                                                                                                                                     
 
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2409" alt="ayush2409" /></p>
+  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2409" alt="ayush2409" />
                                                                                                                               
-  <img align="center" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/ayush2409?theme=unicorn&font=Tauri" unselectable="on" alt="ayush2409"/>
+  <img align="right" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/ayush2409?theme=unicorn&font=Tauri" unselectable="on" alt="ayush2409"/></p>
 
   
   ![](https://komarev.com/ghpvc/?username=your-github-ayush2409&color=blueviolet)
