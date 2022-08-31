@@ -75,9 +75,8 @@
 
 <br> <br>
   
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2409&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2409" /> </p>
-<!--   ![](https://komarev.com/ghpvc/?username=your-github-ayush2409&color=blueviolet) -->
-
+  <a>
+  ![](https://komarev.com/ghpvc/?username=your-github-ayush2409&color=blueviolet) 
+</a>
 
 
