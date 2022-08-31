@@ -75,8 +75,8 @@
 
 <br> <br>
   
-  <a>
+<!--   <a>
   ![](https://komarev.com/ghpvc/?username=your-github-ayush2409&color=blueviolet) 
 </a>
-
+ -->
 
