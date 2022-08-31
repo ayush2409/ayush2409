@@ -76,8 +76,8 @@
 <img align="right" style="width: 100%; height: 100%;" src="https://leetcode.card.workers.dev/ayush2409?theme=unicorn&font=&extension=null" unselectable="on" alt="ayush2409"/> </td> -->
 
 <br> <br>
-  
+  <p>
   ![](https://komarev.com/ghpvc/?username=your-github-ayush2409&color=blueviolet)
-
+</p>
 
 
