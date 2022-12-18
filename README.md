@@ -76,7 +76,7 @@
 </a>
 </p>  -->
    
- #### Contact Me:
+<!--  #### Contact Me:
                                                                                                                                   
   <br>
 
@@ -95,7 +95,7 @@
     <img align="left" alt="Ayush Chandola | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>  
 
-<br><br>
+<br><br> -->
                                                                                                                                                     
  ---
                                                                                                                                                     
