@@ -6,7 +6,7 @@
 ## I'm a BTECH CSE Undergrad
 - 🌱 Final year undergrad 👨‍🎓
 - 🍔 Loves to Eat
-- 🥅 2022 Goal: Learn about Web Development
+- 🥅 2023 Goal: To go for higher package placements.
 - ⚡ Hobbies: I love to draw and play video games , badminton and basketball 🏀🏸
 - 😻 Love to make new friends
 
