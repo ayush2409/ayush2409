@@ -83,7 +83,7 @@
   <a href="https://www.linkedin.com/in/ayush-chandola-290953193/">
     <img align="left" alt="Ayush Chandola | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/AyushChandola7">
+  <a href="https://twitter.com/_Ayush_Chandola">
     <img align="left" alt="Ayush Chandola | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
  
