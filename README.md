@@ -4,11 +4,10 @@
 
 
 ## I'm a BTECH CSE Undergrad
-- 🌱 Final year undergrad 👨‍🎓
+- 🌱 **Software Developer** 🧑‍💻
 - 🍔 Loves to Eat
-- 🥅 2023 Goal: To go for higher package placements.
 - ⚡ Hobbies: I love to draw and play video games , badminton and basketball 🏀🏸
-- 😻 Love to make new friends
+- 😻 P.s I have a good sense of humour :)
 
 <br />
 
